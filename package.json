@@ -1,0 +1,31 @@
+{
+  "name": "highland-set",
+  "version": "0.0.1",
+  "description": "Union and Intersection operators for highland.js streams",
+  "main": "index.js",
+  "dependencies": {
+    "highland": "^2.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adriaan-pelzer/highland-set.git"
+  },
+  "keywords": [
+    "highland",
+    "set",
+    "theory",
+    "streams",
+    "intersection",
+    "union"
+  ],
+  "author": "Adriaan Pelzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriaan-pelzer/highland-set/issues"
+  },
+  "homepage": "https://github.com/adriaan-pelzer/highland-set#readme"
+}
