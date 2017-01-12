@@ -12,7 +12,7 @@ This is a utility library for [@coalan](https://github.com/caolan)'s briliant fu
 
 ### USE
 
-```
+```javascript
     const highlandSet = require ( 'highland-set' );
 
     highlandSet.intersection ( [
